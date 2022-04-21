@@ -19,5 +19,8 @@ Here are figures of θ and the λ under different living costs. "l" means lambda
 Theoretically the offeror always offers as little as possible while receiver always accept the offer while in real life studies, willingness to share and fairness demand varies with regions. Clearly, graphs above favors results in real life so this simulation is very helpful to analyze ultimatum game in real life. You can find more details in [this paper](http://scripts.cac.psu.edu/users/a/l/alb18/PaperFile/arXiv2009.01970.pdf) I coedited with prof. [Christopher Griffin](http://www.personal.psu.edu/cxg286/) at Penn State University. You can also find all the python programs I wrote for this research project [here](https://github.com/yunongch/Ultimatum-game/tree/main/code)
 
 After that, I studied a little bit about convergence of theta in two populations with a few connections
-<img src="plots/converge graph.png">
 <img src="plots/Figure_1.png">
+in this graph, each vertex represents an agent, and agents are only allowed two interact if there is an edge between them.
+
+<img src="plots/converge graph.png">
+There is only one bridge connecting the two populations, but we can see they still converges over time.
