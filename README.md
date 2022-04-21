@@ -11,6 +11,7 @@ Moreover, all agents imitate others with more energy stored to update their own 
 <img src="plots/mimic.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
 
 Here are figures of θ and the λ under different living costs. "l" means lambda. "t" means theta, number above each histogram represents costs of living
-<img src="plots/thetahistogram.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+
+<img src="plots/thetahistogram.png">
 
 <img src="plots/lambdahistogram.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
