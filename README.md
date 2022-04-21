@@ -1,6 +1,6 @@
 # Ultimatum-game
 
-In this project I simulated an ultimatum game model based on different living costs and summarized how the convergence of strategy distribution after a long time.
+In this research project I simulated an ultimatum game model based on different living costs and summarized how the convergence of strategy distribution after a long time.
 
 Here is a diagram showing how I designed the simulation.
 <img src="plots/Blank Diagram (1).png">
@@ -15,3 +15,5 @@ Here are figures of θ and the λ under different living costs. "l" means lambda
 <img src="plots/thetahistogram.png">
 
 <img src="plots/lambda histogram.png">
+
+Theoretically the offeror always offers as little as possible while receiver always accept the offer while in real life studies, willingness to share and fairness demand varies with regions. Clearly, graphs above favors results in real life so this simulation is very helpful to analyze ultimatum game in real life. You can find more details in [this paper](http://scripts.cac.psu.edu/users/a/l/alb18/PaperFile/arXiv2009.01970.pdf) I coedited with prof. Christopher Griffin at Penn State University. 
