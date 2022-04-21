@@ -14,4 +14,4 @@ Here are figures of θ and the λ under different living costs. "l" means lambda
 
 <img src="plots/thetahistogram.png">
 
-<img src="plots/lambdahistogram.png">
+<img src="plots/lambda histogram.png">
